@@ -33,3 +33,5 @@ The Maven Sales Dashboard is developed using Tableau, leveraging its advanced vi
 ## Conclusion:
 
 The Maven Sales Dashboard equips sales managers with the tools they need to assess and optimize sales performance effectively. By providing comprehensive analyses of sales data across sectors, products, and regions, as well as insights into individual manager performance and deal stages, the dashboard enables informed decision-making to drive revenue growth and maximize business opportunities. With its user-friendly interface and dynamic visualizations, the dashboard empowers sales teams to achieve greater success in the competitive marketplace.
+
+Dashboard link: https://public.tableau.com/views/CRMSalesDashboard_17142931996160/Home?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
